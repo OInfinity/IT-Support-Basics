@@ -1,4 +1,4 @@
-# IT-Support-Basics
+# IT-Support- Core Concepts (Basic)
 - CourseName : Hands-on Technical skills for IT Support Professionals
 1. Introduction to the Bootcamp Training ✅
 2. Training Concept, VMware Basics, Server and Client
