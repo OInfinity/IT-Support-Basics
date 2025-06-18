@@ -1,6 +1,6 @@
 # IT-Support-Basics
 - CourseName : Hands-on Technical skills for IT Support Professionals
-1. Introduction to the Bootcamp Training
+1 . Introduction to the Bootcamp Training
 2. Training Concept, VMware Basics, Server and Client
 3 .Active Directory and Group Policy Training
 4 .Inventory, Asset Management Systems
