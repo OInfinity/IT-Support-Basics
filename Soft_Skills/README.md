@@ -1,98 +1,81 @@
-🧠 ✅ Core IT Support Basics (Without Any Course)
-🖥️ 1. Operating System Fundamentals
-Navigating Windows 10/11 UI: Settings, Control Panel, Task Manager
+## 🧠 ✅ Core IT Support Basics (Before Any Course)
 
-User accounts: creating, locking, resetting passwords
+These are the fundamental skills and knowledge areas every aspiring First-Line IT Support Analyst should understand even before starting any course:
 
-Knowing what Safe Mode, msconfig, and startup settings are
+### 🖥️ 1. Operating System Fundamentals
+- Navigating **Windows 10/11** (Settings, Control Panel, Task Manager)
+- User account basics: create, lock, reset passwords
+- Safe Mode, `msconfig`, startup settings
+- Understand:
+  - Local vs. domain users
+  - Administrator vs. Standard user accounts
 
-Understanding the difference between:
+---
 
-Local vs. domain users
+### 🌐 2. Basic Networking Concepts
+- What is an **IP address**, DNS, Gateway?
+- Key commands:
+  - `ipconfig`
+  - `ping`
+  - `tracert`
+  - `nslookup`
+- LAN vs. WAN, Router vs. Switch
+- Troubleshoot basic internet/Wi-Fi problems
 
-Administrator vs. Standard user
+---
 
-🌐 2. Basic Networking Concepts
-What is an IP address, DNS, Gateway?
+### 🔧 3. Common Troubleshooting Scenarios
+- PC is slow / won’t turn on / freezes / blue screen
+- No sound / black screen / peripheral not responding
+- Can't connect to Wi-Fi / printer
+- Apps crashing or not launching
+- Windows Update failures
 
-How to use:
+> 🛠 Know the **first 3 things to check** in each of these situations.
 
-ipconfig
+---
 
-ping
+### 👥 4. Soft Skills for IT Support
+- Active listening and empathy when users report issues
+- Explaining solutions in simple, clear language
+- Staying calm under pressure
+- Documenting each troubleshooting step taken
 
-tracert
+---
 
-nslookup
+### 🎫 5. Ticketing System Basics
+- What is a **support ticket** and what should it include
+- Lifecycle: Open → In Progress → Resolved → Closed
+- How to escalate or reassign a ticket
 
-Understanding LAN, WAN, Router vs. Switch
+---
 
-How to connect to a network and troubleshoot internet issues
+### 🔐 6. Basic Security Awareness
+- Strong password practices
+- Identifying phishing emails
+- Risks of USBs, untrusted downloads, and public Wi-Fi
+- Locking your workstation (`Win + L`)
 
-🔧 3. Common Troubleshooting Scenarios
-PC is slow / won’t turn on / freezes / blue screen
+---
 
-No audio, screen black, mouse/keyboard not responding
+### ⚙️ 7. Familiarity With Key Tools
+| Tool              | Purpose                                  |
+|-------------------|------------------------------------------|
+| `cmd` / Command Prompt | Ping, ipconfig, diagnostics        |
+| **Task Manager**   | Monitor and kill apps, check resources  |
+| **Event Viewer**   | View detailed system logs and errors    |
+| **Device Manager** | Diagnose hardware and driver issues     |
+| **Remote Desktop** | Access and support remote computers     |
 
-Can't connect to Wi-Fi or printer
+---
 
-App crashes or won't launch
+### 🧾 8. Documentation Habit
+- Track every fix with:
+  - Problem
+  - Root cause
+  - How it was resolved
+- Helps during interviews, live jobs, and building your personal support handbook
 
-Windows updates fail
+---
 
-🔄 Know the first 3 things to check in each of these situations
-
-👥 4. Soft Skills for IT Support
-Active listening when someone reports a problem
-
-Clear and simple communication (no tech jargon to users)
-
-Staying calm under pressure
-
-Documenting what you did to fix the issue
-
-🎫 5. Ticketing System Basics
-What is a ticket?
-
-What’s inside a support ticket: issue description, urgency, steps taken
-
-Life cycle: Open → In progress → Resolved → Closed
-
-How to escalate or assign tickets
-
-🔐 6. Basic Security Awareness
-Strong passwords and password reset policies
-
-Recognizing phishing emails
-
-Why USBs and public Wi-Fi are risky
-
-Locking your workstation (Windows + L)
-
-⚙️ 7. Familiarity With Common Tools
-Tool	Purpose
-cmd / Command Prompt	Ping, ipconfig, diagnostics
-Task Manager	Kill processes, check memory/CPU
-Event Viewer	Logs of system errors
-Device Manager	Check drivers, fix hardware issues
-Remote Desktop	Help users remotely
-
-🧾 8. Documentation Habit
-Always take notes when solving a problem:
-
-Problem
-
-Cause
-
-Fix
-
-This helps with job interviews, real work, and building your handbook.
-
-🔄 How This Helps You
-When you already know these things:
-
-You'll follow the course much faster
-
-You’ll be ready to practice, not just watch
-
-You’ll be ready for real interviews before finishing the course
+> 📝 **Pro Tip:** Add these to your personal notes, flashcards, or GitHub Docs. Mastering them gives you a serious head start in any IT support role.
