@@ -1,1 +1,1 @@
-An 'ISP' (Internet Service Provider) is an organization that provides individuals and businesses with access to the internet and related services such as domain registration, email hosting, and website building.
+An  `IPS`(Internet Service Provider) is an organization that provides individuals and businesses with access to the internet and related services such as domain registration, email hosting, and website building.
