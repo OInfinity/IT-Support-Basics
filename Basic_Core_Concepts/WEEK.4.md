@@ -65,7 +65,6 @@ At the end of this week, consider:
 - Which hardware component gave me the most challenge, and why?
 - Could I describe a real IT issue I could solve today?
 - What support task do I feel most confident doing now?
-- Am I ready to interview for a real IT support position?
 
 ---
 
