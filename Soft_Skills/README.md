@@ -75,6 +75,8 @@ These are the fundamental skills and knowledge areas every aspiring First-Line I
   - Root cause
   - How it was resolved
 - Helps during interviews, live jobs, and building your personal support handbook
+- Resources:
+https://www.youtube.com/@CareyHolzman/videos
 
 ---
 
