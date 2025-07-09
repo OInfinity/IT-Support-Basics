@@ -76,13 +76,10 @@ These are the fundamental skills and knowledge areas every aspiring First-Line I
   - How it was resolved
 - Helps during interviews, live jobs, and building your personal support handbook
 ### Resources:
+| Videos              | https://www.youtube.com/@CareyHolzman/videos|
 |-------------------|------------------------------------------|
-| `cmd` / Command Prompt | Ping, ipconfig, diagnostics        |
-| **Task Manager**   | Monitor and kill apps, check resources  |
-| **Event Viewer**   | View detailed system logs and errors    |
-| **Device Manager** | Diagnose hardware and driver issues     |
-| **Remote Desktop** | Access and support remote computers     |
-https://www.youtube.com/@CareyHolzman/videos
+| Interactive Labs| https://www.netacad.com/        |
+| Guide   | https://www.howtogeek.com/  |
 
 ---
 
