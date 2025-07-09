@@ -11,3 +11,8 @@
 9. Ticketing Systems Training for IT Support
 10. CMD Training for IT Support Professionals
 11. Hardware Technical Skills for IT Support roles
+### 'Useful Resources:'
+| Videos              | https://www.youtube.com/@CareyHolzman/videos|
+|-------------------|------------------------------------------|
+| Interactive Labs| https://www.netacad.com/        |
+| Guide   | https://www.howtogeek.com/  |
