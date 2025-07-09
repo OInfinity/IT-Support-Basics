@@ -80,7 +80,6 @@ These are the fundamental skills and knowledge areas every aspiring First-Line I
 |-------------------|------------------------------------------|
 | Interactive Labs| https://www.netacad.com/        |
 | Guide   | https://www.howtogeek.com/  |
------------------------------------------
 
 ---
 
