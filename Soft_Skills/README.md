@@ -75,7 +75,13 @@ These are the fundamental skills and knowledge areas every aspiring First-Line I
   - Root cause
   - How it was resolved
 - Helps during interviews, live jobs, and building your personal support handbook
-- Resources:
+### Resources:
+|-------------------|------------------------------------------|
+| `cmd` / Command Prompt | Ping, ipconfig, diagnostics        |
+| **Task Manager**   | Monitor and kill apps, check resources  |
+| **Event Viewer**   | View detailed system logs and errors    |
+| **Device Manager** | Diagnose hardware and driver issues     |
+| **Remote Desktop** | Access and support remote computers     |
 https://www.youtube.com/@CareyHolzman/videos
 
 ---
