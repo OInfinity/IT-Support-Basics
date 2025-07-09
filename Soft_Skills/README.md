@@ -77,8 +77,10 @@ These are the fundamental skills and knowledge areas every aspiring First-Line I
 - Helps during interviews, live jobs, and building your personal support handbook
 ### 9. Useful Resources:
 | Videos              | https://www.youtube.com/@CareyHolzman/videos|
+|-------------------|------------------------------------------|
 | Interactive Labs| https://www.netacad.com/        |
 | Guide   | https://www.howtogeek.com/  |
+-----------------------------------------
 
 ---
 
